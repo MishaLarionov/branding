@@ -51,9 +51,9 @@ Split the above graphic along the tail of the cursor and rotate the second trian
 
 The paper plane should be used in all static images or UI. If animating the logo, the paper plane should fold in to become the attached cursor. The slide lengths of the triangle coming out of the bottom of the space between the wings should match the length of the cursor's original tail.
 
-[paperplane.ai](https://static.notion-static.com/e931d682a098494abe706a63b57f8c7f/paperplane.ai)
+[paperplane.ai](https://github.com/ncarr/branding/blob/master/Logo/paperplane.ai)
 
-[cursor.ai](https://static.notion-static.com/812719c9aaec493f82985711d4ac7286/cursor.ai)
+[cursor.ai](https://github.com/ncarr/branding/blob/master/Logo/cursor.ai)
 
 
 #### Logos
