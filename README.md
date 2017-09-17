@@ -4,12 +4,12 @@
 Cursor is a youth organisation in the GTA striving to teach code and design to passionate teens. To promote a strong brand, we need a concrete guide, to ensure no mistaking our brand with anyone else in the area or online.
 
 ## Table of Contents
-[**Colour**](###colour)
+[**Colour**](#colour)
 
-[**Shape**](###shape)
+[**Shape**](#shape)
 
-[**Assets**](###assets)
-* [**Logos**](####logos)
+[**Assets**](#assets)
+* [**Logos**](#logos)
 
 ### Colour
 
